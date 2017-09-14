@@ -1,0 +1,95 @@
+// .comment_content {
+//     background-color: #fff;
+// }
+// .comment_content h1 {
+//     display: block;
+//     width: 100px;
+//     height: 40px;
+//     margin:0 auto;
+//     padding: 0;
+
+// }
+// .comment_pic {
+//     margin-top:20px;
+//     width: 100%;
+//     height: 400px;
+// }
+// .comment_pic img {
+//     width: 100%;
+//     height: 100%;
+// }
+// /*评论*/
+// .single_comment {
+//     width: 80%;
+//     height: 200px;
+//     border:1px solid dodgerblue;
+//     margin:0 auto;
+// }
+// .single_comment textarea{
+//     width: 100%;
+//     height: 100%;
+// }
+// .single_sub {
+//     display: block;
+//     /*height: 50px;*/
+//     width: 80%;
+//     margin:10px auto;
+//     cursor: pointer;
+// }
+
+ /* 评论模板 */
+.comment-box .comment-body{
+    list-style: none;
+    width: 98%;
+    border: 1px solid green;
+    background-color: #eee;
+    padding: 10px;
+}
+
+.comment-form-comment textarea {
+    width: 98%;
+    border:1px solid green;
+    padding:10px;
+}
+.form-submit .submit {
+    display:block;
+    width: 80px;
+    height: 40px;
+    border-radius:10px;
+    background-color:firebrick;
+    color:black;
+    text-align:center;
+    line-height:30px;
+    font-size:16px;
+    cursor: pointer;
+    outline:none;
+    border:none;
+}
+.form-submit .submit:hover {
+    background-color:skyblue;
+}
+
+.comment-form-author label {
+    display:block;
+}
+.comment-form-author input {
+    border:1px solid green;
+    height: 30px;
+    line-height:30px;
+}
+.comment-form-email label {
+    display:block;
+}
+.comment-form-email input {
+    border:1px solid green;
+    height: 30px;
+    line-height:30px;
+}
+.comment-form-url label {
+    display:block;
+}
+.comment-form-url input {
+    border:1px solid green;
+    height: 30px;
+    line-height:30px;
+}

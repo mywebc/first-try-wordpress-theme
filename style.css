@@ -1,0 +1,15 @@
+/*
+Theme Name: be better
+Theme URI: http://www.chenxiaolani.com
+Description: 简约风格
+Version: 5.0
+Author: 陈晓拉尼
+Author URI: http://www.chenxiaoalni.com
+Tags: web前端，web笔记,个人博客
+*/
+@import "./css/base.css";
+@import "./css/index.css";
+@import "./css/single.css";
+@import "./css/comment.css";
+@import "./css/404.css";
+

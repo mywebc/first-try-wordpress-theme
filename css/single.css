@@ -1,0 +1,26 @@
+.single_content {
+    /*height: 800px;*/
+    background-color: #eee;
+    padding: 30px 10px;
+}
+/*标题*/
+.single_content h1 {
+    display: block;
+    height: 40px;
+    width: 100%;
+    margin:0 auto;
+    text-align: center;
+    line-height: 40px
+}
+/*日期*/
+.single_content .single_date  {
+    color:gray;
+    font-size: 14px;
+    margin:10px auto;
+    width: 100%;
+    text-align: center;
+    line-height: 14px;
+
+}
+/*评论*/
+
